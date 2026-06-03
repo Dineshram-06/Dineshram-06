@@ -16,31 +16,21 @@ Focused on building scalable applications, intelligent workflows, automation sys
 
 ---
 
+
+<div align="center">
+
 ## Tech Stack
 
-### Languages
-- Python
-- Java
+| **Languages** | **Frontend** | **Backend & Database** | **Tools & Platforms** |
+|---|---|---|---|
+| Python | React.js | Firebase | Docker |
+| Java | Tailwind CSS | MongoDB | GitHub |
+| | HTML | MySQL | Linux |
+| | CSS | | Postman |
+| | JavaScript | | |
 
-### Frontend
-- React.js
-- Tailwind CSS
-- HTML
-- CSS
-- JavaScript
+</div>
 
-### Backend & Database
-- Firebase
-- MongoDB
-- MySQL
-
-### Tools & Platforms
-- Docker
-- GitHub
-- Linux
-- Postman
-
----
 
 ## Selected Work
 
