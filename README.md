@@ -76,23 +76,6 @@ Collaborated on real-time development workflows, testing, debugging, and softwar
 ### Web Development Intern
 Built and improved frontend systems while working with version control and deployment workflows.
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineshram-06&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshram-06&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshram-06&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## Current Focus
 
