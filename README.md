@@ -1,96 +1,109 @@
-<h1 align="center">Hi 👋, I'm Dineshram SM</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Cybersecurity Enthusiast</h3>
+<h1 align="center">Dineshram SM</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;React+%7C+Python+%7C+Firebase;Building+Smart+Scalable+Systems&center=true&width=500&height=50">
+  Software Engineering • Intelligent Systems • Scalable Applications
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,tailwind,firebase,mongodb,mysql,docker,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-💡 Passionate about building intelligent software systems combining AI + Full Stack Engineering  
-🎯 Focused on scalable applications, automation, cybersecurity, and machine learning  
-🏆 Winner — BIT Hackathon 2025  
-🏅 Finalist — Smart India Hackathon 2025  
+Focused on building scalable applications, intelligent workflows, automation systems, and performance-driven software architectures. Interested in modern application development, secure systems, and data-driven engineering.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- Python
+- Java
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- React.js
+- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
 
 ### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- Firebase
+- MongoDB
+- MySQL
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🔥 Featured Projects
-
-## 🚚 FlowSure
-QR-based garment production tracking system with ML-powered production insights.
-
-**Tech:** Python, Firebase, Machine Learning
+### Tools & Platforms
+- Docker
+- GitHub
+- Linux
+- Postman
 
 ---
 
-## 🛡 HardenX
-Cybersecurity hardening and compliance monitoring platform with automation scripts.
+## Selected Work
 
-**Tech:** Python, Linux, Cybersecurity Tools
+### FlowSure
+QR-based production workflow tracking platform with real-time monitoring and operational analytics.
 
----
-
-## 🤖 AI Face Recognition System
-AI-powered face recognition system using InsightFace and OpenCV for accurate large-scale face retrieval.
-
-**Tech:** Python, Flask, OpenCV, InsightFace
+**Stack:** Python, Firebase, Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+### HardenX
+System hardening and compliance monitoring platform focused on automation and configuration analysis.
+
+**Stack:** Python, Linux, Security Automation
+
+---
+
+### AI Face Recognition System
+Face recognition and image retrieval system designed for large-scale matching and partial face detection.
+
+**Stack:** Python, InsightFace, OpenCV, Flask
+
+---
+
+## Experience
+
+### Full Stack Development Intern
+Worked on responsive frontend systems, UI workflows, debugging, and scalable web application development.
+
+### Software Development Intern
+Collaborated on real-time development workflows, testing, debugging, and software engineering practices.
+
+### Web Development Intern
+Built and improved frontend systems while working with version control and deployment workflows.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineshram-06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineshram-06&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshram-06&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshram-06&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshram-06&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshram-06&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dineshram-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Dineshram--06-black?style=for-the-badge&logo=github)](https://github.com/Dineshram-06)
-
----
-
-# ⚡ Current Focus
-
-- AI-powered systems
-- Scalable SaaS Products
-- Machine Learning Applications
+- Scalable application architecture
+- Workflow automation
+- Intelligent system design
+- Performance optimization
+- Secure engineering practices
 
 ---
 
 <p align="center">
-  ⭐ Building impactful products through AI + Engineering
+  Building practical systems with clean architecture and scalable design.
 </p>
